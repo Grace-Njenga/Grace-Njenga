@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grace-Njenga
+- 👋 Hi, I’m @Grace-Njenga, a junior web-developer
 - 📫 How to reach me @gracenjenga172@gmail.com 
 
 <!---
