@@ -1,11 +1,12 @@
 **Grace Njenga 😄 - Frontend Developer & Cybersecurity Enthusiast**
 ======
 
-** Hi there!**
+**Hi there!**
 
 I'm Grace Njenga, a passionate frontend developer with a strong interest in cybersecurity. I'm constantly driven to learn and explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
 
-** Skills & Strengths**
+**Skills & Strengths**
+----
 
 My core strengths lie in:
 
@@ -14,7 +15,8 @@ My core strengths lie in:
 - **Active Listening 👂**: I pay close attention to understand your needs and requirements before diving in.
 - **Dynamic Learner 📖**: I'm a fast learner with a strong desire to stay updated on the latest IT trends and technologies.
 
-** Frontend Development**
+**Frontend Development**
+---
 
 I'm skilled in various frontend technologies, including:
 
@@ -24,7 +26,8 @@ I'm skilled in various frontend technologies, including:
   -BEM
 -JAVASCRRIPT
 
-** Cybersecurity Awareness**
+**Cybersecurity Awareness**
+-----
 
 While my primary focus is frontend development, I possess a keen interest in cybersecurity. I actively seek to learn more about:
 
@@ -34,7 +37,8 @@ While my primary focus is frontend development, I possess a keen interest in cyb
 - Security and Risk Management
 - Network Security Principles
 
-** Get in Touch**
+**Get in Touch**
+-----
 
 I'm always eager to connect and learn from others. Feel free to reach out:
 
@@ -42,7 +46,8 @@ I'm always eager to connect and learn from others. Feel free to reach out:
 
 ☎️ Phone: 0743955713
 
-** Learning Journey**
+**Learning Journey**
+-----
 
 I'm actively engaged in continuous learning, expanding my knowledge through:
 
