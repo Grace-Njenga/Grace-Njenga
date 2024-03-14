@@ -47,7 +47,7 @@ I'm always eager to connect and learn from others. Feel free to reach out:
 
 📭 Email: gracenjenga172@gmail.com
 
-☎️ Phone: 0743955713
+☎️ Phone: <code style = "color : aqua">0743955713</code>
 
 **Learning Journey**
 -----
