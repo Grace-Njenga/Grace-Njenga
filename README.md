@@ -1,4 +1,4 @@
-**Grace Njenga 😄 - Frontend Developer & Cybersecurity Enthusiast**
+**Grace Njenga :smile: - Frontend Developer & Cybersecurity Enthusiast**
 ======
 
 **Hi there!**
