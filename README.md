@@ -22,9 +22,12 @@ I'm skilled in various frontend technologies, including:
 
 - HTML
 - CSS
-  -Tailwind
-  -BEM
--JAVASCRRIPT
+  
+  - Tailwind
+  - Bootstrap
+  - BEM
+  
+- JAVASCRRIPT
 
 **Cybersecurity Awareness**
 -----
