@@ -39,6 +39,7 @@ While my primary focus is frontend development, I possess a keen interest in cyb
 I'm always eager to connect and learn from others. Feel free to reach out:
 
 📭 Email: gracenjenga172@gmail.com
+
 ☎️ Phone: 0743955713
 
 ** Learning Journey**
