@@ -56,6 +56,7 @@ I'm actively engaged in continuous learning, expanding my knowledge through:
 - CS0T Understanding Technology
 - CISCO Introduction to Cybersecurity
 - Kevin Powell Blog
+- Roadmap.sh for my front-end journey
 
 I'm excited to explore the ever-changing landscape of IT and contribute my skills to meaningful projects. Let's connect and discuss how I can add value!
 
