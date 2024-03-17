@@ -1,7 +1,11 @@
 **Grace Njenga :smile: - Frontend Developer & Cybersecurity Enthusiast**
 ======
 
+
+
+
 **Hi there! :bowtie:**
+
 *DESCRIPTION*
 ====
 
