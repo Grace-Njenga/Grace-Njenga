@@ -5,6 +5,9 @@
 
 I'm Grace Njenga, a passionate frontend developer with a strong interest in cybersecurity. I'm constantly driven to learn and explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
 
+**Objectives**
+{Brief Objective}
+
 **Skills & Strengths**
 ----
 
