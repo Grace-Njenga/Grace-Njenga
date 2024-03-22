@@ -72,13 +72,13 @@ I'm actively engaged in continuous learning, expanding my knowledge through:
 
 **Certifications both completed and in-progress**
 
-**Completed Certifications*
+*Completed Certifications*
 ===
 1. <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
 2. <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
 3. <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
 
-**Inprogress Certifications*
+*Inprogress Certifications*
 ===
 1. <a href=""> Google Certificate for CyberSecurity Professionals </a> --In-progress
 2. <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
