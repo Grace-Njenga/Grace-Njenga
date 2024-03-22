@@ -60,10 +60,16 @@ I'm always eager to connect and learn from others. Feel free to reach out:
 
 I'm actively engaged in continuous learning, expanding my knowledge through:
 
-- Google Certificate for CyberSecurity Professionals
-- CS50 Introduction to Cybersecurity
-- CS0T Understanding Technology
-- CISCO Introduction to Cybersecurity
+**Certifications both completed and in-progress**
+
+- <a href=""> Google Certificate for CyberSecurity Professionals </a> --In-progress
+- <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
+- <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
+- <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
+- <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
+
+**Blogs**
+
 - Kevin Powell Blog
 - Roadmap.sh for my front-end journey
 
