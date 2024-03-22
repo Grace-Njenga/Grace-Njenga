@@ -20,6 +20,10 @@ My core strengths lie in:
 - **Teamwork 🤝**: I thrive in collaborative environments, valuing the power of diverse perspectives to achieve common goals.
 - **Active Listening 👂**: I pay close attention to understand your needs and requirements before diving in.
 - **Dynamic Learner 📖**: I'm a fast learner with a strong desire to stay updated on the latest IT trends and technologies.
+- **Building Rapport and Empathy**: I excel at connecting with customers, understanding their needs, and building trust through empathy and active listening.
+- **Problem-Solving and Resolution-Oriented**: I approach customer issues with a problem-solving mindset, working diligently to find effective solutions and ensure a positive outcome.
+- **De-escalation and Patience**: I remain calm and professional when dealing with frustrated or stressed customers, de-escalating situations with patience and understanding.
+- **Exceeding Expectations**: I go the extra mile to exceed customer expectations, delivering exceptional service that fosters loyalty and positive brand experiences.
 
 **Frontend Development**
 ---
