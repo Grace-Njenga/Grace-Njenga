@@ -3,13 +3,13 @@
 
 **DESCRIPTION**
 
-<a href="https://www.linkedin.com/in/Grace Njenga"> Linkedin </a>
+My Linkedin Profile: <a href="https://www.linkedin.com/in/Grace Njenga"> Linkedin </a> 
 
 Hi there! :bowtie: , I'm **Grace Njenga**, a passionate frontend developer with a strong interest in cybersecurity. I'm constantly driven to learn and explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
 
-**OBJECTIVES**
+**OBJECTIVE**
 
-*{Brief Objective}*
+    *Enthusiastic and results-oriented individual with a growing interest in cybersecurity and a strong foundation in customer service. Seeking a role that combines my         passion for user experience with the opportunity to learn and contribute to a strong cybersecurity environment. Eager to leverage my communication and problem-solving skills to support a team focused on online security and user satisfaction.*
 
 **Skills & Strengths**
 ----
