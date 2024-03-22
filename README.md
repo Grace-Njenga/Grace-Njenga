@@ -5,7 +5,7 @@
 
 My Linkedin Profile: <a href="https://www.linkedin.com/in/Grace Njenga"> Linkedin </a> 
 
-Hi there! :bowtie: , I'm **Grace Njenga**, a passionate frontend developer with a strong interest in cybersecurity. I'm constantly driven to learn and explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
+Hi there! :bowtie: , I'm **Grace Njenga**, a passionate frontend developer with a strong interest in cybersecurity. My eagerness to learn recently led me to complete the *CISCO's Introduction to Cybersecurity*, and I'm currently expanding my knowledge through the *Google Certificate for Cybersecurity Professionals* and *CS50's Introduction to Cybersecurity* course. I'm constantly driven to explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
 
 **OBJECTIVE**
 
@@ -30,16 +30,20 @@ My core strengths lie in:
 **Frontend Development**
 ---
 
-I'm skilled in various frontend technologies, including:
+Skilled in various frontend technologies, including:
 
 - HTML
 - CSS
-  
-  - Tailwind
-  - Bootstrap
-  - BEM
-  
-- JAVASCRRIPT
+- Tailwind
+- Bootstrap
+- BEM
+- JavaScript
+
+Demonstrated Expertise in Responsive Design:
+
+1. <a href="https://github.com/Grace-Njenga/Eat-More">**Project Eatmore**</a>: Implemented responsive design principles to ensure a seamless user experience across all devices (desktop, tablet, mobile) for the "Eatmore" restaurant web application. 
+2. <a href="https://github.com/Grace-Njenga/Reciclar">**Recilar**</a>: Leveraged responsive design techniques to create a user-friendly web interface for "Recilar" that adapts flawlessly to various screen sizes, enhancing user satisfaction and navigation.
+3. <a href="https://github.com/Grace-Njenga/project9">**Comtech**</a>: Utilized responsive design best practices to develop a dynamic and responsive web experience for "comtech" ensuring optimal functionality and readability on all devices.
 
 **Cybersecurity Awareness**
 -----
@@ -68,11 +72,17 @@ I'm actively engaged in continuous learning, expanding my knowledge through:
 
 **Certifications both completed and in-progress**
 
-- <a href=""> Google Certificate for CyberSecurity Professionals </a> --In-progress
-- <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
-- <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
-- <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
-- <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
+**Completed Certifications*
+===
+1. <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
+2. <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
+3. <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
+
+**Inprogress Certifications*
+===
+1. <a href=""> Google Certificate for CyberSecurity Professionals </a> --In-progress
+2. <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
+
 
 **Blogs**
 
