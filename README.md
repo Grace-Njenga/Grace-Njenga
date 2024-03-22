@@ -84,11 +84,11 @@ I'm actively engaged in continuous learning, expanding my knowledge through cert
 2. <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
 
 
->Blogs
+>Additional Resources
 ----
 
-- Kevin Powell Blog
-- Roadmap.sh for my front-end journey
+1. Kevin Powell Blog
+2. <a href="https://roadmap.sh/">Roadmap.sh</a> for my front-end journey
 
 I'm excited to explore the ever-changing landscape of IT and contribute my skills to meaningful projects. Let's connect and discuss how I can add value!
 
