@@ -68,9 +68,7 @@ I'm always eager to connect and learn from others. Feel free to reach out:
 **Learning Journey**
 -----
 
-I'm actively engaged in continuous learning, expanding my knowledge through:
-
-**Certifications both completed and in-progress**
+I'm actively engaged in continuous learning, expanding my knowledge through certifications:
 
 >Completed Certifications
 ----
