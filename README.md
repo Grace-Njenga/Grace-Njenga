@@ -89,6 +89,7 @@ I'm actively engaged in continuous learning, expanding my knowledge through cert
 
 1. <a href="https://www.kevinpowell.co/resources/">Kevin Powell</a> whose blog and youtube channel are about CSS.
 2. <a href="https://roadmap.sh/">Roadmap.sh</a> for my front-end journey
+3. <a href="https://www.joshwcomeau.com">Josh Comeau</a>, who is like Kevin Powell and teaches Front-end technics.
 
 I'm excited to explore the ever-changing landscape of IT and contribute my skills to meaningful projects. Let's connect and discuss how I can add value!
 
