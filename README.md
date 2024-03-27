@@ -45,6 +45,7 @@ Demonstrated Expertise in Responsive Design:
 2. <a href="https://github.com/Grace-Njenga/Reciclar">**Recilar**</a>: Leveraged responsive design techniques to create a user-friendly web interface for "Recilar" that adapts flawlessly to various screen sizes, enhancing user satisfaction and navigation.
 3. <a href="https://github.com/Grace-Njenga/project9">**Comtech**</a>: Utilized responsive design best practices to develop a dynamic and responsive web experience for "comtech" ensuring optimal functionality and readability on all devices.
 
+***P.S:-** These aren't live projects just practice projects* 
 FrontEnd Mentor Challenges:
 1. <a href="https://www.frontendmentor.io/solutions/responsive-grid-4FLh5VDePL"> Product Preiew Card Component</a>
 
