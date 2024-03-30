@@ -49,6 +49,7 @@ Demonstrated Expertise in Responsive Design:
 
 FrontEnd Mentor Challenges:
 1. <a href="https://www.frontendmentor.io/solutions/responsive-grid-4FLh5VDePL"> Product Preiew Card Component</a>
+2. <a href="https://www.frontendmentor.io/solutions/testimonial-grid-8-ngKJJVU7"> Testimonial Grid</a>
 
 **Cybersecurity Awareness**
 -----
