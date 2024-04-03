@@ -3,7 +3,7 @@
 
 **DESCRIPTION**
 
-My Linkedin Profile: <a href="https://www.linkedin.com/in/Grace Njenga"> Linkedin </a> 
+My Linkedin Profile: <a href="https://linkedin.com/in/Grace Njenga"> Linkedin </a> 
 
 Hi there! :bowtie: , I'm **Grace Njenga**, a passionate frontend developer with a strong interest in cybersecurity. My eagerness to learn recently led me to complete the *CISCO's Introduction to Cybersecurity*, and I'm currently expanding my knowledge through the *Google Certificate for Cybersecurity Professionals* and *CS50's Introduction to Cybersecurity* course. I'm constantly driven to explore the ever-evolving world of IT, finding excitement in the daily challenges and opportunities it presents.
 
