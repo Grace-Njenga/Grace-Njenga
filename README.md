@@ -82,7 +82,7 @@ I'm actively engaged in continuous learning, expanding my knowledge through cert
      c. <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
 
 2. *Inprogress Certifications*
-a. <a href=""> Google Certificate for CyberSecurity Professionals </a> --In-progress
+a. <a href=""> Google Certificate for CyberSecurity Professionals </a>
 b. <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
 
 
