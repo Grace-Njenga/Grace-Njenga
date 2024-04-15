@@ -66,10 +66,8 @@ While my primary focus is frontend development, I possess a keen interest in cyb
 -----
 
 I'm always eager to connect and learn from others. Feel free to reach out:
-
-📭 Email: <code style = "color : aqua"> gracenjenga172@gmail.com </code>
-
 ☎️ Phone: <code style = "color : aqua">0743955713</code>
+📭 Email: gracenjenga172@gmail.com
 
 **Learning Journey**
 -----
@@ -83,7 +81,7 @@ I'm actively engaged in continuous learning, expanding my knowledge through cert
 
 3. *Inprogress Certifications*
 - <a href=""> Google Certificate for CyberSecurity Professionals </a>
-- <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
+- <a href=""> CS50 Introduction to Cybersecurity </a> 
 
 
 4. *Additional Resources*
