@@ -67,8 +67,8 @@ While my primary focus is frontend development, I possess a keen interest in cyb
 
 I'm always eager to connect and learn from others. Feel free to reach out:
 
-☎️ Phone: <code style = "color : aqua">0743955713</code>
-📭 Email: gracenjenga172@gmail.com
+☎️ **Phone**: <code style = "color : aqua">0743955713</code>
+📭 **Email**: gracenjenga172@gmail.com
 
 **Learning Journey**
 -----
