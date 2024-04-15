@@ -77,19 +77,19 @@ I'm always eager to connect and learn from others. Feel free to reach out:
 I'm actively engaged in continuous learning, expanding my knowledge through certifications:
 
  1. *Completed Certifications*
-     a. <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
-     b. <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
-     c. <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
+- <a href="https://www.credly.com/badges/82e3cf9b-fde0-4b89-a0f2-95731f2dea9b/public_url"> CISCO Introduction to Cybersecurity</a>
+- <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
+- <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
 
-2. *Inprogress Certifications*
-a. <a href=""> Google Certificate for CyberSecurity Professionals </a>
-b. <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
+3. *Inprogress Certifications*
+- <a href=""> Google Certificate for CyberSecurity Professionals </a>
+- <a href=""> CS50 Introduction to Cybersecurity </a> -- In-progress
 
 
-3. *Additional Resources*
-a. <a href="https://www.kevinpowell.co/resources/">Kevin Powell</a> whose blog and youtube channel are about CSS.
-b. <a href="https://roadmap.sh/">Roadmap.sh</a> for my front-end journey
-c. <a href="https://www.joshwcomeau.com">Josh Comeau</a>, who is like Kevin Powell and teaches Front-end technics.
+4. *Additional Resources*
+- <a href="https://www.kevinpowell.co/resources/">Kevin Powell</a> whose blog and youtube channel are about CSS.
+- <a href="https://roadmap.sh/">Roadmap.sh</a> for my front-end journey
+- <a href="https://www.joshwcomeau.com">Josh Comeau</a>, who is like Kevin Powell and teaches Front-end technics.
 
 I'm excited to explore the ever-changing landscape of IT and contribute my skills to meaningful projects. Let's connect and discuss how I can add value!
 
