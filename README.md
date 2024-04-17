@@ -80,12 +80,12 @@ I'm actively engaged in continuous learning, expanding my knowledge through cert
 - <a href="https://certificates.cs50.io/11907449-b942-4b6a-bdf1-b33cbc7dc40a.pdf?size=letter"> CS50S Intoduction to Scratch Programming  </a>
 - <a href="https://certificates.cs50.io/3769ef31-768c-45a4-b95b-31e5a9b7f43e.pdf?size=letter"> CS0T Understanding Technology </a>
 
-3. *Inprogress Certifications*
+2. *Inprogress Certifications*
 - <a href=""> Google Certificate for CyberSecurity Professionals </a>
 - <a href=""> CS50 Introduction to Cybersecurity </a> 
 
 
-4. *Additional Resources*
+3. *Additional Resources*
 - <a href="https://www.kevinpowell.co/resources/">Kevin Powell</a> whose blog and youtube channel are about CSS.
 - <a href="https://roadmap.sh/">Roadmap.sh</a> for my front-end journey
 - <a href="https://www.joshwcomeau.com">Josh Comeau</a>, who is like Kevin Powell and teaches Front-end technics.
